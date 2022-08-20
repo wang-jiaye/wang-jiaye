@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 我是嘿黑🧑🏽 
 
-- 👨‍💻 经历：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，19 线程序员小 UP</a>
-- 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 程序员嘿黑 』</a>
-- 👀 视频：<a href="https://space.bilibili.com/44076709" target="_blank">B站 程序员鱼皮</a> 
+- 👨‍💻 经历：<a href="https://mp.weixin.qq.com/s/tw2Uz4Stmglzqd4DMUCYAA" target="_blank">关于非科班的我如何成为程序员</a>
+- 🌱 公众号：<a href="file:///C:/Users/%E7%8E%8B%E5%98%89%E4%B8%9A/Desktop/gongzonhhao.jpg" target="_blank">公众号『 程序员嘿黑 』</a>
+- 👀 视频：<a href="https://space.bilibili.com/44076709" target="_blank">B站 嘿黑哥</a> 
 - 💬 微信：wangheiheishiye
 
 

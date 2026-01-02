@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm wang-jiaye 👋
 
 <!--
 **wang-jiaye/wang-jiaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 我是嘿黑🧑🏽 
+## 可以叫我嘿黑🧑🏽 
 
 - 👨‍💻 经历：<a href="https://mp.weixin.qq.com/s/tw2Uz4Stmglzqd4DMUCYAA" target="_blank">关于非科班的我如何成为程序员</a>
 - 🌱 公众号：<a href="file:///C:/Users/%E7%8E%8B%E5%98%89%E4%B8%9A/Desktop/gongzonhhao.jpg" target="_blank">公众号『 程序员嘿黑 』</a>

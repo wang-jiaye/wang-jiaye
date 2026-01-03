@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 关于我🧑🏽 
-- 💻 c++开发工程师/嵌入式通信工程师 
+- 💻 c++开发工程师/嵌入式通信工程师
+- 🐱‍🏍 脑中充满奇思妙想，活力满满的不寻常水瓶座
 - 🎬 爱好摄影与分享技术的纳米级up主，欢迎关注<a href="https://space.bilibili.com/44076709" target="_blank">B站 嘿黑哥</a> 
 - 🎵 发布过自己作词作曲的原创纯圈外音乐人
-- 🐱‍🏍 脑中充满奇思妙想，活力满满的不寻常水瓶座
 - 💬 微信：wangheiheishiye
 
 
